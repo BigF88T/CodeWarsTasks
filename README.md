@@ -10,7 +10,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Технологии
-+ [Java SE 17](https://jdk.java.net/23/)
++ [Java SE 17](https://jdk.java.net/17/)
 + [PostgreSQL](https://www.postgresql.org/)
 + [Git](https://git-scm.com/)
 
