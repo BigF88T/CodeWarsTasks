@@ -21,5 +21,6 @@ public class Positive{
         }
 
         return sum;
+        // return Arrays.stream(arr).filter(v -> v > 0).sum();
     }
 }
